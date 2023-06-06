@@ -1,3 +1,3 @@
 # Assignment
 
-This is the reposiroty of assignment.
+This is the reposiroty of AI class assignment.
